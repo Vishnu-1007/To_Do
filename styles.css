@@ -1,0 +1,15 @@
+#main_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+}
+body{
+    background-color: rgb(115, 148, 148);
+}
+input{
+    width : 300px;
+}
+#first_div{
+    height: 100vh;
+}
